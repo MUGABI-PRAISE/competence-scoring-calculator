@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: competence-scoring-calculator
+Version: 1
+Summary: a package used for calculating competence scores of employees
+Home-page: https://github.com/MUGABI-PRAISE/competence-scoring-calculator.git
+Author: Mugabi Praise
+Author-email: mugabipraise4@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+**this is a read me**
+### this is a heading
+this is a heading

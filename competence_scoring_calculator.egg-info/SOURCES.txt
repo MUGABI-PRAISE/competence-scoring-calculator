@@ -1,0 +1,6 @@
+README.md
+setup.py
+competence_scoring_calculator.egg-info/PKG-INFO
+competence_scoring_calculator.egg-info/SOURCES.txt
+competence_scoring_calculator.egg-info/dependency_links.txt
+competence_scoring_calculator.egg-info/top_level.txt
